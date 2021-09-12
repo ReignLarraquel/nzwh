@@ -10,20 +10,18 @@ Interested in the visual side of things, where the first impression comes in. Ex
 <a href="https://github.com/nvstco/" target="_blank"><img height="40" src="./materials/pf_svg/pf_github.svg"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/zalphspreo?si=f088ff9976bd45bd"  target="_blank"><img height="40" src="./materials/pf_svg/pf_spotify.svg"></a>&nbsp;&nbsp;
 </p>
-
-<br/>
 <h3 align="left"> Languages and IDEs :robot::zap: </h3>
-<code><img src="./materials/lang_svg/cplus_icon.svg" width="40" height="40"/></code>
-<code><img src="./materials/lang_svg/csharp_icon.svg" width="40" height="40"/></code>
-<code><img src="./materials/lang_svg/css_icon.svg" width="40" height="40"/></code>
-<code><img src="./materials/lang_svg/figma_icon.svg" width="40" height="40"/></code>
-<code><img src="./materials/lang_svg/git_icon.svg" width="40" height="40"/></code>
-<code><img src="./materials/lang_svg/html_icon.svg" width="40" height="40"/></code>
-<code><img src="./materials/lang_svg/invision_icon.svg" width="40" height="40"/></code>
-<code><img src="./materials/lang_svg/java_icon.svg" width="40" height="40"/></code>
-<code><img src="./materials/lang_svg/javascript_icon.svg" width="40" height="40"/></code>
-<code><img src="./materials/lang_svg/php_icon.svg" width="40" height="40"/></code>
-<code><img src="./materials/lang_svg/vs_icon.svg" width="40" height="40"/></code>
+<code><img src="./materials/lang_svg/cplus_icon.svg" width="40" height="40"/></code>                ឵               ឵               ឵               ឵               ឵឵               ឵
+<code><img src="./materials/lang_svg/csharp_icon.svg" width="40" height="40"/></code>                ឵               ឵               ឵               ឵               ឵឵               ឵
+<code><img src="./materials/lang_svg/css_icon.svg" width="40" height="40"/></code>                ឵               ឵               ឵               ឵               ឵឵               ឵
+<code><img src="./materials/lang_svg/figma_icon.svg" width="40" height="40"/></code>                ឵               ឵               ឵               ឵               ឵឵               ឵
+<code><img src="./materials/lang_svg/git_icon.svg" width="40" height="40"/></code>                ឵               ឵               ឵               ឵               ឵឵               ឵
+<code><img src="./materials/lang_svg/html_icon.svg" width="40" height="40"/></code>                ឵               ឵               ឵               ឵               ឵឵               ឵
+<code><img src="./materials/lang_svg/invision_icon.svg" width="40" height="40"/></code>                ឵               ឵               ឵               ឵               ឵឵                 ឵
+<code><img src="./materials/lang_svg/java_icon.svg" width="40" height="40"/></code>                ឵               ឵               ឵               ឵               ឵឵               ឵
+<code><img src="./materials/lang_svg/javascript_icon.svg" width="40" height="40"/></code>                ឵               ឵               ឵               ឵               ឵឵               ឵
+<code><img src="./materials/lang_svg/php_icon.svg" width="40" height="40"/></code>                ឵               ឵               ឵               ឵               ឵឵               ឵
+<code><img src="./materials/lang_svg/vs_icon.svg" width="40" height="40"/></code>                ឵               ឵               ឵               ឵               ឵឵               ឵
 <code><img src="./materials/lang_svg/vscode_icon.svg" width="40" height="40"/></code> 
 
 ###
