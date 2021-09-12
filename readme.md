@@ -1,7 +1,7 @@
 ![Profile Banner](https://media.discordapp.net/attachments/886427688808624129/886428203411984394/banner.gif)
 
 ### **Just a computer science major just trying to make the web look a lot better. :robot::wave:**
-Interested in the visual side of things, where the first impression comes in. Explorer of different interests and willing to discover more. Primarily focused in front-end, but also full-stack development. Feel free to reach out to me through my socials.
+Interested in the visual side of things, where the first impression comes in. Explorer of different interests and willing to discover more. Primarily focused in front-end, but also pursuing full-stack development. Feel free to reach out! :loudspeaker:
 
 <p align="left">
 <a href="https://twitter.com/nvstco/" target="_blank"><img height="40" src="https://gist.githubusercontent.com/nvstco/d464973dcfc68f4501a377a1d12928e6/raw/65a3140de67744b61c0f776ff1cffb1ca9f4ad13/pf_twitter.svg"></a>&nbsp;&nbsp;
