@@ -6,4 +6,4 @@
 <a href="https://open.spotify.com/user/zalphspreo?si=f088ff9976bd45bd"  target="_blank"><img height="40" src="./materials/pf_svg/pf_spotify.svg"></a>&nbsp;&nbsp;
 </p>
 
-![Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark&bg_color=90,0D1117,161b22&hide_border=true&langs_count=4&card_width=1000&custom_title=Languages)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark&bg_color=90,0D1117,161b22&hide_border=true&langs_count=4&card_width=1000&custom_title=Languages)
