@@ -7,7 +7,7 @@
 <img src="./materials/javascript_icon.svg" height="24"/> &nbsp;
 <img src="./materials/c_icon.svg" height="24"/> &nbsp;
 <img src="./materials/cplusplus_icon.svg" height="24"/> &nbsp;
-<img src="./materials/csharp_icon.svg" height="24"/> &nbsp; 
+<img src="./materials/csharp_icon.svg" height="24"/> &nbsp; <br>
 <img src="./materials/tools_icon.svg" height="24"/> &nbsp;
 <img src="./materials/vsc_icon.svg" height="24"/> &nbsp;
 <img src="./materials/figma_icon.svg" height="24"/> &nbsp;
