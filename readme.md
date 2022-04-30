@@ -1,6 +1,4 @@
 ![Header](https://cdn.discordapp.com/attachments/703834784266190848/942086937399930891/HXR.gif)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nzwh&layout=compact&theme=github_dark&bg_color=90,0D1117,161b22&hide_border=true&langs_count=4&card_width=1000&custom_title=Languages)
-
 <p align="center">
 <img src="./materials/languages_icon.svg" height="24"/> &nbsp;
 <img src="./materials/html_icon.svg" height="24"/> &nbsp;
